@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  background-image: url("https://via.placeholder.com/1200x500");
+  background-size: cover;
+  background-position: center;
+}
+
+section {
+  padding: 50px 0;
+}
+
+footer {
+  background-color: #343a40;
+  color: #ffffff;
+}
